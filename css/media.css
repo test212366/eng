@@ -1,0 +1,678 @@
+@media screen and (max-width: 1439px) {
+	.main__wrapper {
+		/* padding: 0 55px; */
+		padding: 0 100px;
+	
+	}
+	.main__greetings-granos-1-item {
+		left: -53px;
+	}
+	header {
+		margin-bottom: 38px;
+	}
+	header svg {
+		height: 48px;
+		width: 104px;
+	}
+	.main__greetings-wrapper h1 {
+		font-size: 33px;
+		line-height: 36px;
+		max-width: 500px;
+		margin-bottom: 25px;
+		letter-spacing: -1.32px;
+	}
+	.main__greetings-wrapper h4 {
+		color: #232323;
+ 
+		font-size: 22px;
+ 
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: -0.88px;
+		max-width: 350px;
+		margin-bottom: 25px;
+	}
+	.main__greetings-events-item span {
+		margin-right: 11px;
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: -1.2px;
+	}
+	.main__greetings-events-item-description p:first-child {
+		margin-top: 0;
+		font-size: 16px;
+		font-weight: 400;
+		letter-spacing: -0.64px;
+	}
+	.main__greetings-events-item-description p:last-child {
+ 
+		font-size: 12px;
+	 
+		font-weight: 400;
+	 
+		letter-spacing: -0.48px;
+	}
+	.main__greetings-events-item:last-child {
+		margin-left: 16px ;
+	}
+	.main__greetings-events-item {
+		padding: 6px 8px;
+		height: 44px;
+		max-width: 173px;
+	}
+	.main__greetings-events {
+		margin-bottom: 31px;
+	}
+	.main__greetings-buttons button {
+		height: 52px;
+		margin-right: 8px;
+		max-width: 189px;
+		font-size: 16px;
+	}
+	.main__greetings-buttons button:last-child {
+		max-width: 213px !important;
+	}
+	.main__greetings-person-item {
+		width: 348px;
+		height: 453px;
+	}
+	 .main__greetings-granos-2-item, .main__greetings-granos-1-item {
+		height: 507px;
+	}
+	.main__greetings-buttons {
+		padding-bottom: 71px;
+	}
+	.main__edication h3 {
+		margin-top: 44px;
+		margin-bottom: 53px;
+		font-size: 24px;
+		font-weight: 400;
+		line-height: 120%; /* 28.8px */
+	}
+	.main__edication-item-title {
+		margin-top: 17px;
+		font-size: 16px;
+		font-weight: 500;
+		line-height: 108%;
+		margin-bottom: 18px;
+	}
+	.main__edication-item-price-current {
+		margin-left: 15px;
+		font-size: 30px;
+		margin-bottom: 8px;
+		font-weight: 400;
+		line-height: 108%;
+	}
+	.main__edication-item-discount {
+		top: 19px;
+		font-size: 12px;
+		width: 46px;
+		height: 23px;
+		font-weight: 400;
+		line-height: 23.427px; /* 195.224% */
+	}
+	.main__edication-item-previous-price {
+		font-size: 18px;
+		font-weight: 400;
+		line-height: 108%;
+		margin-left: 15px;
+	}
+	.main__edication-item-wrapper-previous-price {
+		margin-bottom: 23px;
+	}
+	.main__edication-item-methods {
+		padding: 0 15px;
+	}
+	.main__edication-item-method-item svg {
+		height: 6px;
+		width: 6px;
+	}
+	.main__edication-item-line {
+		top: 7px;
+		width: 75px;
+		left: 25px;
+	}
+	.main__edication-item-method-item p {
+		margin-left: 6px;
+		font-size: 8px;
+	 
+		line-height: normal;
+	}
+	.main__edication-item-method-item:last-child {
+		margin-bottom: 18px;
+	}
+	.main__edication-item-pay {
+		margin-left: 15px;
+		font-size: 12px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 108%;
+		margin-bottom: 3px;
+	}
+	.main__edication-item-pay-target {
+		margin-left: 15px;
+		margin-bottom: 16px;
+	}
+	.main__edication-item-buttons button {
+		margin: 0 15px 5px 15px;
+		max-width: auto;
+		width: unset;
+		height: 40px;
+		font-size: 8px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 11px; /* 137.5% */
+		text-transform: uppercase;
+	}
+	.main__edication-item-buttons button:last-child {
+		margin-bottom: 5px !important;
+	}
+	.main__edication-items {
+		margin-bottom: 37px;
+	}
+	.main__gift , .main__gift img {
+		height: 223px;
+	}
+	.main__gift {
+		margin-bottom: 37px;
+	}
+	.main__gift-granos-4 {
+		height: 100px !important;
+		left: 50px;
+	}
+	.main__gift-books {
+		height: 180px !important;
+		left: 7px;
+		top: 26px;
+
+	}
+	.main__gift-wrapper svg {
+		margin-bottom: 0;
+		width: 220px;
+	}
+	.main__gift-wrapper p {
+		font-size: 15px;
+	}
+	.main__gift-wrapper {
+		right: 140px;
+		top: 25px;
+	}
+	.main__gift-bred {
+		height: 160px !important;
+	}
+	.main__order h6 {
+		padding-top: 22px;
+		font-size: 20px;
+		font-weight: 500;
+		line-height: 100%;
+		margin-bottom: 11px;
+	}
+	.main__order-desc {
+		font-size: 12px;
+		font-style: normal;
+		max-width: 200px;
+		font-weight: 400;
+		line-height: 110%;
+		margin-bottom: 16px;
+	}
+	.main__wrapper-form {
+		max-width: 268px;
+	}
+	.main__wrapper-form input {
+		font-size: 12px;
+		 height: 37px;
+		  
+		font-weight: 400;
+		line-height: 100%; /* 12px */
+		letter-spacing: 0.12px;
+	}
+	.main__wrapper-form button {
+		height: 37px;
+		font-size: 14px;
+		font-weight: 700;
+		line-height: 23px; /* 164.286% */
+		text-transform: uppercase;
+		margin-bottom: 20px;
+	}
+	.main__order-personal {
+		font-size: 8px;
+		font-style: normal;
+		font-weight: 400;
+		max-width: 225px;
+		line-height: 100%;
+		margin-bottom: 29px;
+	}
+	footer img{
+		margin-top: 17px;
+		height: 54px;
+		margin-bottom: 15px;
+	}
+	footer p {
+		font-size: 14px;
+	}
+	footer p:nth-child(2) {
+		margin-bottom: 15px;
+	}
+	footer p:last-child {
+		font-size: 11px;
+		max-width: 400px;
+	}
+	footer svg {
+		height: 15px !important;
+		width: 15px !important;
+	}
+	.main__footer-social {
+		margin-bottom: 40px;
+	}
+	.main__edication-item {
+		margin-right: 20px;
+	}
+	.main__edication-item:last-child {
+		margin-right: 0;
+	}
+}
+@media screen and (max-width: 950px) {
+	.main__wrapper {
+		padding: 0 55px; 
+		 
+	
+	}
+	.main__greetings-buttons button:last-child {
+		position: absolute;
+		z-index: 1;
+	}
+	.main__greetings {
+		background-size: cover;
+	}
+	.main__greetings-person-item {
+		right: -24px;
+	 
+	}
+	.main__edication-item-discount {
+		right: 15px;
+	}
+	.main__gift-wrapper {
+		right: 52px;
+	}
+	.main__greetings {
+		overflow: hidden;
+	}
+	.main__greetings-granos-2-item {
+		right: -73px;
+	 
+  }
+  .main__edication-item-buttons button {
+ 
+		padding: 0 13px;
+	}
+	.main__edication-item-methods {
+		padding-right: 0;
+	}
+}
+@media screen and (max-width: 830px) { 
+	.main__edication-item-buttons button {
+ 
+		padding: 0 10px;
+	}
+	.main__gift-wrapper {
+		right: 30px;
+  }
+}
+@media screen and (max-width: 785px) {
+	header svg {
+		height: 31px !important;
+		width: 66px !important;
+	}
+	header {
+		margin-bottom: 29px;
+	}
+	.main__greetings-wrapper h1 {
+		font-size: 24px;
+		max-width: 300px;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: -0.96px;
+		margin-bottom: 17px;
+	}
+	.main__greetings-wrapper h4 {
+		font-size: 14px;
+		max-width: 250px;
+		margin-bottom: 16px;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: -0.56px;
+	}
+	.main__greetings-events {
+		margin-bottom: 47px;
+	}
+	.main__greetings-buttons {
+		padding-bottom: 38px;
+	}
+	.main__edication {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+	.main__edication h3 {
+		margin-bottom: 24px;
+		margin-top: 42px;
+		font-size: 16px;
+		max-width: 200px;
+		font-weight: 500;
+		line-height: 120%; /* 19.2px */
+	}
+	.main__edication-items {
+		flex-wrap: wrap;
+	}
+	.main__edication-item:nth-child(2) {
+		margin-right: 0;
+		
+	}
+	.main__edication-item {
+		margin-bottom: 20px;
+		max-width: 220px;
+	}
+	.main__edication-items {
+		margin-bottom: 15px;
+		justify-content: center;
+	}
+	.main__gift {
+		transform: scale(0.7);
+		/* В дизайне этот элемент как изображение и я был вынужден сделать как scale. */
+		margin-bottom: 10px;
+		width: 130%;
+	}
+	footer img {
+		margin-top: 22px !important;
+		margin-bottom: 16px !important;
+		height: 34px !important;
+	}
+	footer p {
+		font-size: 8px !important;
+	}
+	.main__greetings-events {
+		display: flex;
+		flex-direction: column;
+
+	}
+	.main__greetings-events-item:last-child {
+		margin-left: 0;
+		margin-top: 13px;
+	}
+	.main__greetings-buttons button {
+		max-width: 264px !important;
+	}
+	.main__greetings-buttons button:last-child {
+		position: static;
+		max-width: 264px !important;
+		margin-top: 8px;
+	}
+	
+}
+@media screen and (max-width: 672px) {
+	.main__greetings-granos-2-item {
+		right: -164px;
+  }
+  .main__greetings-buttons {
+	z-index: 1;
+		position: sticky;
+  }
+}
+@media screen and (max-width: 625px) {
+	.main__gift-wrapper {
+		transform: scale(0.85) translateX(30px);
+		/* В дизайне этот элемент как изображение и я был вынужден сделать как scale. */
+		
+	}
+	.main__footer-social {
+		margin-bottom: 52px;
+	}
+	.main__greetings-events {
+		z-index: 1;
+		position: relative;
+	}
+}
+@media screen and (max-width: 625px) { 
+	.main__wrapper {
+		padding: 0 28px;
+	}
+}
+@media screen and (max-width: 525px) {  
+
+	.main__gift {
+		transform: scale(0.5);
+		margin-bottom: 10px;
+		width: 150%;
+		/* В дизайне этот элемент как изображение и я был вынужден сделать как scale. */
+
+  }
+}
+@media screen and (max-width: 525px) {
+	.main__edication-item {
+		margin: 0 10px 20px 10px !important;
+		max-width: 300px;
+	}
+	.main__greetings-wrapper h4 span {
+		font-weight: 700;
+	}
+	.main__greetings-wrapper h1 {
+		max-width: 200px;
+		font-size: 24px;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: -0.96px;
+	}
+	.main__greetings-wrapper h4 {
+		max-width: 128px;
+		color: #232323;
+		font-size: 14px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: -0.56px;
+	}
+	.main__greetings-events {
+		/* align-items: ; */
+	}
+	.main__greetings-events-item:first-child {
+		margin-top: 13px;
+		order: 1;
+	}
+	.main__greetings-events-item:last-child {
+		margin-bottom: 0;
+ 
+	}
+	.main__bg-shine {
+		width: 150%;
+		position: absolute;
+		left: 0;
+		 
+		bottom: -60px;
+		height: 206px;
+		flex-shrink: 0;
+		background: #F8C712;
+		z-index: 1;
+		filter: blur(37.5px);
+	}
+	.main__greetings-person-item {
+		bottom: unset;
+		top: 91px;
+	}
+	.main__greetings-granos-1-item {
+		bottom: -84px;
+		top: unset;
+	}
+	.main__greetings-person-item {
+		right: -103px;
+  }
+  .main__greetings-buttons button {
+		max-width: unset !important;
+		font-size: 18px;
+	}
+	.main__greetings-buttons button:last-child {
+		max-width: unset !important;
+	}
+	.main__edication-item-title {
+		margin:  32px 0;
+		
+		font-size: 26px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: 108%; /* 28.08px */
+	}
+	.main__edication-item-price-current {
+ 
+	 
+		font-size: 50px;
+		margin-left: 27px;
+		font-weight: 400;
+		line-height: 108%; /* 54px */
+	}
+	
+	.main__edication-item-discount {
+		color: #FFF;
+		right: 27px;
+		top: 32px;
+		font-size: 18.742px;
+		width: 69px;
+		height: 37px;
+		font-weight: 400;
+		line-height: 23.427px; /* 125% */
+	}
+	.main__edication-item-previous-price {
+		margin-left: 27px;
+ 
+		font-size: 24px;
+ 
+	}
+	.main__edication-item-methods {
+		padding: 0 27px;
+	}
+	.main__edication-item-method-item svg {
+		width: 8px;
+		height: 8px;
+	}
+	.main__edication-item-method-item p {
+		font-size: 12px;
+	}
+	.main__edication-item-method-item:last-child {
+		margin-bottom: 25px;
+	}
+	.main__edication-item-pay {
+ 
+		font-size: 22px;
+ 
+		margin-left: 27px;
+	}
+	.main__edication-item-pay {
+		margin-bottom: 6px;
+	}
+	.main__edication-item-pay-target {
+		margin-left: 27px;
+	}
+	.main__edication-item-buttons button {
+		font-size: 14px;
+		padding: 0 24px;
+		font-weight: 700;
+		line-height: 23px;
+		margin: 0 27px 5px 27px;
+		height: 66px;
+	}
+	.main__edication-item-buttons button:first-child {
+		margin-bottom: 12px;
+	}
+	.main__edication-item {
+		padding-bottom: 17px;
+	}
+	.main__edication-item-line {
+		width: 109px;
+		top: 11px;
+
+    	left: 20px;
+		height: 2px;
+	}
+	.main__wrapper-form button {
+		margin-bottom: 16px;
+		height: 50px;
+		letter-spacing: 1.6px;
+		font-size: 16px;
+	}
+	.main__order-personal {
+		margin-bottom: 25px;
+	}
+	.main__gift {
+	 
+		margin-bottom: -13px;
+	}
+	.main__order h6 {
+		padding-top: 32px;
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+	.main__order-desc {
+		margin-bottom: 17px;
+	}
+	footer p:nth-child(2) {
+		margin-top: 0;
+	}
+}
+@media screen and (max-width: 470px) {
+	.main__gift {
+		margin-top: -50px;
+		width: 170%;
+	}
+	footer p:last-child {
+		max-width: 250px;
+	}
+}
+@media screen and (max-width: 420px) {
+	.main__greetings-person-item {
+		right: -151px;
+  }
+  .main__greetings-granos-2-item {
+		right: -232px;
+		top: -35px;
+		transform: rotate(-20deg);
+  }
+  .main__edication-item {
+		margin: 0 !important;
+		margin-bottom: 20px !important;
+  }
+  .main__gift {
+		width: 200%;
+  }
+}
+@media screen and (max-width: 365px) {
+	.main__gift {
+		margin-top: -80px;
+		margin-bottom: -40px;
+		width: 240%;
+  
+		transform: scale(0.4);
+	 
+		/* В дизайне этот элемент как изображение и я был вынужден сделать как scale. */
+
+	}
+	.main__edication-item-buttons button:last-child {
+		padding: 0 10px;
+	}
+	footer p {
+		color: #FFF;
+		text-align: center;
+ 
+		font-size: 8px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 180%; /* 14.4px */
+		letter-spacing: -0.16px;
+		text-transform: uppercase;
+	}
+	footer p:last-child {
+		margin-bottom: 20px;
+	}
+} 
+@media screen and (max-width: 319px) {
+	.main__wrapper {
+		padding: 0 10px;
+	}
+}
